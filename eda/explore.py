@@ -9,3 +9,5 @@ def get_X(x_list):
         X.append((x0-x1))
     X += x_list
     return X
+
+fwsa oibf quit(qwfqwf)
